@@ -36,16 +36,29 @@ The platform is designed to scale, with more games and features planned.
 1. Clone the repository:
 
  ```sh
- git clone https://github.com/0xali3n/diam-frontend.git
- cd diam-frontend
+ git clone [https://github.com/0xali3n/diam-frontend.git](https://github.com/shrishail356/Diamante_HHGoa24.git)
+ cd Diamante_HHGoa24
   ```
-2. Install dependencies:
+2. Navigate to backend folder:
+ ```sh
+cd backend
+ ```
+3. Install dependencies  and run the backend:
 
  ```sh
 npm install
 npm run dev
  ```
+4. Navigate to frontend folder:
+ ```sh
+cd frontend
+ ```
+5. Install dependencies  and run the frontend:
 
+ ```sh
+npm install
+npm run dev
+ ```
 
 
 https://github.com/user-attachments/assets/a7d40743-5cd3-4889-8a22-f2e27afff996
